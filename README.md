@@ -1,13 +1,16 @@
 # FlashCard
 Alura\VScode
+# FlashCard
+Alura\VScode
 
 
 
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="eng">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css">
     <title>Flashcard</title>
 </head>
 <body>
@@ -42,3 +45,32 @@ Alura\VScode
     </footer>
 </body>
 </html>
+<link rel="stylesheet" href="assets/style.css">
+<!-- código omitido -->
+
+<article class="cartao">
+    <div class="cartao__conteudo">
+        <h3>Programação</h3>
+        <div class="cartao_conteudo_pergunta"> 
+            <p>O que é CSS?</p>
+        </div>
+        <div class="cartao_conteudo_resposta">
+        <p>0 CSS é uma linguagem de estilização</p>
+    </div>
+</div>
+</article>
+
+<!-- código omitido -->
+
+style.css .
+          .
+          .
+          .
+        ......
+         ....
+          ..
+
+
+
+
+
